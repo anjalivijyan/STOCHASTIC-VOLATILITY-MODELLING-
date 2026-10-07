@@ -1,1 +1,2 @@
 *.parquet
+.DS_Store
